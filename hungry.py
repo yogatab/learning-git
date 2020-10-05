@@ -4,3 +4,5 @@ if hungry == "yes":
     print("Eat")
 else:
     print("Moja")
+
+print("last")
