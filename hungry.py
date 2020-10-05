@@ -1,1 +1,6 @@
-print("I am hungry.")
+hungry  = input("are you hungry.").lower()
+
+if hungry == "yes":
+    print("Eat")
+else:
+    print("Moja")
